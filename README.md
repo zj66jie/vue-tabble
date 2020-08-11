@@ -1,5 +1,5 @@
 # 02-tabble
-![](https://github.com/zj66jie/vue-table/raw/master/app.png)  
+![](https://github.com/zj66jie/vue-tabble/raw/master/app.png)  
 ## Project setup
 ```
 npm install
